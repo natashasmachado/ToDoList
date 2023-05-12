@@ -14,6 +14,7 @@
 		7EB78F092A0CA6E300D01D12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EB78F072A0CA6E300D01D12 /* LaunchScreen.storyboard */; };
 		7EB78F112A0CA83800D01D12 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB78F102A0CA83800D01D12 /* ToDo.swift */; };
 		7EB78F132A0CA8A900D01D12 /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB78F122A0CA8A900D01D12 /* ToDoTableViewController.swift */; };
+		7EB78F152A0E030600D01D12 /* ToDoDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB78F142A0E030600D01D12 /* ToDoDetailTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7EB78F0A2A0CA6E300D01D12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7EB78F102A0CA83800D01D12 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 		7EB78F122A0CA8A900D01D12 /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
+		7EB78F142A0E030600D01D12 /* ToDoDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoDetailTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				7EB78EFE2A0CA6E200D01D12 /* SceneDelegate.swift */,
 				7EB78F102A0CA83800D01D12 /* ToDo.swift */,
 				7EB78F122A0CA8A900D01D12 /* ToDoTableViewController.swift */,
+				7EB78F142A0E030600D01D12 /* ToDoDetailTableViewController.swift */,
 				7EB78F022A0CA6E200D01D12 /* Main.storyboard */,
 				7EB78F052A0CA6E300D01D12 /* Assets.xcassets */,
 				7EB78F072A0CA6E300D01D12 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7EB78F112A0CA83800D01D12 /* ToDo.swift in Sources */,
+				7EB78F152A0E030600D01D12 /* ToDoDetailTableViewController.swift in Sources */,
 				7EB78F132A0CA8A900D01D12 /* ToDoTableViewController.swift in Sources */,
 				7EB78EFD2A0CA6E200D01D12 /* AppDelegate.swift in Sources */,
 				7EB78EFF2A0CA6E200D01D12 /* SceneDelegate.swift in Sources */,
